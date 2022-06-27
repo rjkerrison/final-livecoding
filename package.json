@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "deploy:backend": "git subtree push --prefix server heroku main"
+  }
+}
