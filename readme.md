@@ -44,3 +44,5 @@ We have set this up for future deployments with an npm script: `npm run deploy:b
 Netlify's dashboard allows us to do this.
 
 We follow through their steps, making careful note that we set up `client` as our starter folder.
+
+![Setting subfolder](https://user-images.githubusercontent.com/7150842/175980696-b30ab541-cd38-4c11-84aa-ce82f2e387db.png)
